@@ -1,0 +1,115 @@
+{
+    "toys": [
+      {
+        "sellerName": "Doll Haven",
+        "sellerEmail": "dollhaven@example.com",
+        "picture": "https://i.ibb.co/886QJdf/doll2.jpg",
+        "toyName": "Princess Bella",
+        "subcategory": "Fashion Dolls",
+        "price": 29.99,
+        "rating": 4.7,
+        "availableQuantity": 30,
+        "detailDescription": "Meet Princess Bella, the enchanting fashion doll fit for a royal ball. With her beautiful gown, sparkling accessories, and flowing hair, she's ready for magical adventures. Let your little princess create her own fairytale with Princess Bella!"
+      },
+      {
+        "sellerName": "Dolls & Dreams",
+        "sellerEmail": "dollsanddreams@example.com",
+        "picture": "https://i.ibb.co/RQHMGZh/doll1.jpg",
+        "toyName": "Ballerina Grace",
+        "subcategory": "Dancing Dolls",
+        "price": 24.99,
+        "rating": 4.4,
+        "availableQuantity": 20,
+        "detailDescription": "Introducing Ballerina Grace, the graceful dancing doll with delicate moves. With her tutu, ballet slippers, and poseable limbs, she can perform stunning ballet routines. Let your little one's imagination soar with Ballerina Grace!"
+      },
+      {
+        "sellerName": "Wonder Dolls",
+        "sellerEmail": "wonderdolls@example.com",
+        "picture": "https://i.ibb.co/bXVRTjB/doll4.jpg",
+        "toyName": "Adventure Explorer",
+        "subcategory": "Action Dolls",
+        "price": 34.99,
+        "rating": 4.6,
+        "availableQuantity": 15,
+        "detailDescription": "Join the Adventure Explorer on thrilling quests and daring escapades. With her adventurous outfit, backpack, and accessories, she's ready to explore hidden treasures. Let your little adventurer embark on exciting journeys with the Adventure Explorer doll!"
+      },
+      {
+        "sellerName": "Doll Paradise",
+        "sellerEmail": "dollparadise@example.com",
+        "picture": "https://i.ibb.co/ysh0VFS/doll3.jpg",
+        "toyName": "Mermaid Melody",
+        "subcategory": "Fantasy Dolls",
+        "price": 39.99,
+        "rating": 4.8,
+        "availableQuantity": 25,
+        "detailDescription": "Dive into a world of enchantment with Mermaid Melody. With her shimmering tail, long flowing hair, and magical seashell accessories, she brings the ocean's beauty to life. Let your little one's imagination swim with Mermaid Melody!"
+      },
+      {
+        "sellerName": "Dream Dolls",
+        "sellerEmail": "dreamdolls@example.com",
+        "picture": "https://i.ibb.co/nBB52N0/doll5.jpg",
+        "toyName": "Fashionista Emma",
+        "subcategory": "Fashion Dolls",
+        "price": 27.99,
+        "rating": 4.5,
+        "availableQuantity": 40,
+        "detailDescription": "Meet Fashionista Emma, the stylish trendsetter with a passion for fashion. With her chic outfits, trendy accessories, and posable limbs, she's always ready to strike a pose. Let your little fashionista express her style with Fashionista Emma!"
+      },
+      {
+        "sellerName": "Pretty Dolls",
+        "sellerEmail": "prettydolls@example.com",
+        "picture": "https://i.ibb.co/zSJJ5cz/doll6.jpg",
+        "toyName": "Magical Fairy Lily",
+        "subcategory": "Fantasy Dolls",
+        "price": 29.99,
+        "rating": 4.7,
+        "availableQuantity": 35,
+        "detailDescription": "Introducing Magical Fairy Lily, the whimsical fairy doll with sparkling wings and a wand. With her floral dress and radiant charm, she spreads magic and joy wherever she goes. Let your little one's imagination take flight with Magical Fairy Lily!"
+      },
+      {
+        "sellerName": "Princess Dolls",
+        "sellerEmail": "princessdolls@example.com",
+        "picture": "https://i.ibb.co/1ncfGVt/doll7.jpg",
+        "toyName": "Royal Princess Amelia",
+        "subcategory": "Fashion Dolls",
+        "price": 32.99,
+        "rating": 4.6,
+        "availableQuantity": 30,
+        "detailDescription": "Meet Royal Princess Amelia, the regal doll with a crown and a royal gown. With her elegant style and majestic presence, she's the epitome of grace and charm. Let your little princess feel like royalty with Royal Princess Amelia!"
+      },
+      {
+        "sellerName": "Magic Dolls",
+        "sellerEmail": "magicdolls@example.com",
+        "picture": "https://i.ibb.co/PWmBgw0/doll8.jpg",
+        "toyName": "Enchanted Unicorn Doll",
+        "subcategory": "Fantasy Dolls",
+        "price": 36.99,
+        "rating": 4.8,
+        "availableQuantity": 20,
+        "detailDescription": "Enter a realm of enchantment with the Enchanted Unicorn Doll. With her magical unicorn companion and ethereal beauty, she brings dreams to life. Let your little one's imagination soar with the Enchanted Unicorn Doll!"
+      },
+      {
+        "sellerName": "Doll World",
+        "sellerEmail": "dollworld@example.com",
+        "picture": "https://i.ibb.co/j3DzDNH/doll9.jpg",
+        "toyName": "Doctor Emily",
+        "subcategory": "Career Dolls",
+        "price": 26.99,
+        "rating": 4.5,
+        "availableQuantity": 25,
+        "detailDescription": "Introducing Doctor Emily, the caring and compassionate doll ready to heal the world. With her medical coat, stethoscope, and nurturing nature, she's a role model for aspiring young doctors. Let your little one imagine a world of possibilities with Doctor Emily!"
+      },
+      {
+        "sellerName": "Fantasy Dolls",
+        "sellerEmail": "fantasydolls@example.com",
+        "picture": "https://i.ibb.co/FVjCH0m/doll10.jpg",
+        "toyName": "Pixie Garden Fairy",
+        "subcategory": "Fantasy Dolls",
+        "price": 29.99,
+        "rating": 4.7,
+        "availableQuantity": 30,
+        "detailDescription": "Discover the enchanting world of the Pixie Garden Fairy. With her delicate wings, floral dress, and magical wand, she brings the beauty of nature to life. Let your little one's imagination bloom with the Pixie Garden Fairy!"
+      }
+    ]
+  }
+  
